@@ -11,4 +11,4 @@ The library is used in a plain Java project without any Scala dependency.
 mvn compile exec:java   
 ```
 
-note: maven must be installed.
+note: maven + java must be installed.

@@ -11,4 +11,4 @@ The library is used in a Scala 3.5.1 project, note the used library is based on 
 sbt run   
 ```
 
-note: sbt must be installed.
+note: sbt + java must be installed.
