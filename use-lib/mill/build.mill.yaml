@@ -1,0 +1,4 @@
+extends: JavaModule
+mvnDeps:
+- xyz.test:example_lib:0.1.0
+- org.slf4j:slf4j-simple:1.7.9
